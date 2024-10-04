@@ -78,7 +78,7 @@ label{
     height: 40px;
 }
 body{
-    background-image: url('https://i.postimg.cc/DfQ8syd1/In-Shot-20240920-232748312.jpg.');
+    background-image: url('https://imgur.com/a/MqsPeKM.jpg.');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
