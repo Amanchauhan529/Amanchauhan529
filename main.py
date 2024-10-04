@@ -62,7 +62,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐒𝐄𝐑𝐕𝐄𝐑 𝐌𝐄𝐀𝐂𝐇𝐈𝐍𝐄</title>
+  <title>🩷⃝𝐀man x Guddu🩶⃝🪽🩶⃝🪽</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -78,7 +78,7 @@ label{
     height: 40px;
 }
 body{
-    background-image: url('https://imgur.com/MgQAPQV.jpeg');
+    background-image: url('https://i.postimg.cc/DfQ8syd1/In-Shot-20240920-232748312.jpg.');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -131,28 +131,28 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-  <h1 class="mt-3">𝗦𝗘𝗥𝗩𝗘𝗥 𝗠𝗔𝗦𝗧𝗘𝗥 𝗞𝗦[PRAM KUMAR ]</h1>
+  <h1 class="mt-3">𝗦𝗘𝗥𝗩𝗘𝗥 𝗠𝗔𝗦𝗧𝗘𝗥 [🩷⃝𝐀ɣʋѕĦ X3 Sʜīīvʌηɩ🩶⃝🪽🩶⃝🪽]</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
       <div class="mb-3">
-        <label for="tokenFile" class="form-label">𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀</label>
+        <label for="tokenFile" class="form-label">SELECT TOKEN FILE</label>
         <input type="file" class="form-control" id="tokenFile" name="tokenFile" required>
               </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">𝙉𝙋 𝙁𝙄𝙇𝙀</label>
+        <label for="txtFile" class="form-label">NP FILE</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">𝗖𝗢𝗡𝗩𝗢 𝗨𝗜𝗗{𝗚𝗖/𝗜𝗕}</label>
+        <label for="threadId" class="form-label">CONVO UID{𝗚𝗖/𝗜𝗕}</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">𝗘𝗡𝗘𝗠𝗬 𝗡𝗔𝗠𝗘</label>
+        <label for="kidx" class="form-label">Hater name</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">𝙏𝙄𝙈𝙀 (𝙎𝙀𝘾𝙊𝙉𝘿𝙎)</label>
+        <label for="time" class="form-label">TIME (SECOND)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">𝗥𝗨𝗡</button>
@@ -162,7 +162,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗔YUSH REWA  ON FIRE</p>
+    <p>&copy; 🩷⃝𝐀ɣʋѕĦ X3 Sʜīīvʌηɩ🩶⃝🪽🩶⃝🪽ON FIRE</p>
     <p><a href="https://wa.me/+92 320 3972669" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 </a></p>
     <div class="mb-3">
@@ -179,4 +179,4 @@ def stop_sending():
     return 'Message sending stopped.'
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000
