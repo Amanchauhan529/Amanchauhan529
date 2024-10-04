@@ -162,8 +162,8 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 🩷⃝𝐀ɣʋѕĦ X3 Sʜīīvʌηɩ🩶⃝🪽🩶⃝🪽ON FIRE</p>
-    <p><a href="https://wa.me/+92 320 3972669" class="whatsapp-link">
+    <p>&copy; 🩷⃝𝐀manX3 Guddu🩶⃝🪽🩶⃝🪽ON FIRE</p>
+    <p><a href="https://wa.me/+91 911968763" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 </a></p>
     <div class="mb-3">
       <a href="https://www.facebook.com/profile.php?id=1012510713&mibextid=LQQJ4d">𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏</a>
